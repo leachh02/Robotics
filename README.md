@@ -24,5 +24,4 @@ Image Formation and Image Geometry
 3D Vision
 
 ## Code:
-
 myPrac.m - A MATLAB Program that connects to a DOBOT Magician Arm and controls the arm to type out a specific word on a keyboard placed in front of the arm.
